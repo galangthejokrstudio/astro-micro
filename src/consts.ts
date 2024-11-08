@@ -1,7 +1,7 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Lang Dev 🔬",
+  TITLE: "Lang Dev",
   DESCRIPTION: "Lang Dev 🔬 adalah blog yang mudah diakses dan ringan.",
   EMAIL: "bisnis.langdev@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
